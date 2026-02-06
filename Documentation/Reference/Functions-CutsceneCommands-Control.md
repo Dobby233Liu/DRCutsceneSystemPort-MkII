@@ -79,7 +79,7 @@ is less than or equal to `0` (i.e. the `mc` actor instance is on the first frame
 
 Waits for however long the sound `sound` would ideally play for.
 
-**Example:** `c_wait_soundlength(snd_noise)` "waits for" `snd_noise` "to finish" (i.e. waits for its duration).
+**Example:** `c_wait_soundlength(snd_noise)` "waits for `snd_noise` to finish" (i.e. waits for its duration).
 
 
 `c_waitcustom`
