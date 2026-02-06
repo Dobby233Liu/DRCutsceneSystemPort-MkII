@@ -14,6 +14,7 @@ Sections
   - [Instance](Functions-CutsceneCommands-Instance.md)
   - [Dialogue](Functions-CutsceneCommands-Dialogue.md)
   - [Audio](Functions-CutsceneCommands-Audio.md)
+  - [Camera](Functions-CutsceneCommands-Camera.md)
 
 - [Miscellaneous Information](#miscellaneous-information)
 
@@ -45,6 +46,14 @@ The content of `command` in `c_cmd_x` calls, however, is not always 1:1 to what 
 **Example:** `c_cmd_x("wait", 30, 0, 0, 0, 0, 0)` equals to [`c_wait(30)`][c_wait].
 
 [c_wait]: Functions-CutsceneCommands-Control.md#c_wait
+
+
+`c_delaycmd`
+-----------------------------------------------------------------------------------------------------------------------
+
+
+`c_delaycmd4`
+-----------------------------------------------------------------------------------------------------------------------
 
 
 Miscellaneous Information
