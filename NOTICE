@@ -12,7 +12,7 @@ is licensed under the zlib License, which can be found in the file
 The work as seen in the following files/folders:
   .editorconfig
   .gitattributes
-  cspell.json
+  .cspell.json
   .cspell-dict.txt
   .markdownlint.json
   README.md
