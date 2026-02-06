@@ -73,4 +73,4 @@ Miscellaneous Information
 
 - <a id="avoid-keywords-for-inst"></a>For commands with instances as parameters, you should not pass `self` or `other`;
   these keywords will likely not refer to what you intend them to refer to. \
-  Use instance IDs instead, such as `id` instead of `self`, or `other.id` instead of `other`.
+  Use instance IDs instead in these cases, so `id` instead of `self`, or `other.id` instead of `other`.
