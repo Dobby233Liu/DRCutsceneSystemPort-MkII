@@ -1,0 +1,35 @@
+Copyright Notices
+===============================================================================
+
+The work as seen in the following files/folders:
+  DRCutsceneSystemPort-MkII.csx
+
+is licensed under the zlib License, which can be found in the file
+  LICENSE-zlib
+
+-------------------------------------------------------------------------------
+
+The work as seen in the following files/folders:
+  .editorconfig
+  .gitattributes
+  cspell.json
+  .cspell-dict.txt
+  .markdownlint.json
+  README.md
+  Documentation/*
+
+is licensed under the MIT No Attribution License, which can be found in the file
+  LICENSE-mitna
+
+-------------------------------------------------------------------------------
+
+The work as seen in the following files/folders:
+  GML/*
+
+is based on material by Toby Fox and the Deltarune team. Neither Liu Wenyuan
+nor other direct copyright holders of the other works listed above directly
+claim copyright to this work in any capacity or form.
+
+This work is not affiliated with Toby Fox or the Deltarune team. If you are a
+representative of Toby Fox or Fangamer and wish to have the work taken down,
+please send an email to <liuwenyuanbackup@gmail.com>.

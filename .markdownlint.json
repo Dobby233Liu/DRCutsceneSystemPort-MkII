@@ -1,0 +1,14 @@
+{
+    "MD013": {
+        "line_length": 120
+    },
+    "MD004": {
+        "style": "dash"
+    },
+    "MD033": {
+        "allowed_elements": ["a"]
+    },
+    "MD012": {
+        "maximum": 2
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "language": "en-US",
+    "caseSensitive": false,
+    "dictionaries": ["en_US", "softwareTerms", "csharp", "misc", "custom"],
+    "dictionaryDefinitions": [
+        {
+            "name": "custom",
+            "path": "./.cspell-dict.txt"
+        }
+    ]
+}
