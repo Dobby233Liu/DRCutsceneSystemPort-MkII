@@ -1,12 +1,12 @@
 Cutscene Commands
 =======================================================================================================================
 
+*Tip: In the GitHub web interface, click the "Outline" button to the right above the header to show the table
+of contents.*
+
 
 Sub-Pages
 -----------------------------------------------------------------------------------------------------------------------
-
-*Tip: In the GitHub web interface, click the "Outline" button to the right above the header to show the table
-of contents.*
 
 - Commands by category
   - [Control](Functions-CutsceneCommands-Control.md)
@@ -15,8 +15,6 @@ of contents.*
   - [Dialogue](Functions-CutsceneCommands-Dialogue.md)
   - [Audio](Functions-CutsceneCommands-Audio.md)
   - [Camera](Functions-CutsceneCommands-Camera.md)
-
-- [Miscellaneous Information](#miscellaneous-information)
 
 
 `c_cmd`
