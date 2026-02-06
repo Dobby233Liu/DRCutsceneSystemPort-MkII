@@ -1,1 +1,7 @@
 * text=auto eol=crlf
+
+.editorconfig export-ignore
+.gitattributes export-ignore
+.cspell.json export-ignore
+.cspell-dict.txt export-ignore
+.markdownlint.json export-ignore
