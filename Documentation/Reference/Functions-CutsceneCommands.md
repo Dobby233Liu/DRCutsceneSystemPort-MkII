@@ -24,7 +24,7 @@ Pushes the command `command` to the command queue, with `arg1, arg2, arg3, arg4`
 Other `c_*` functions are generally wrappers of either this or [`c_cmd_x`](#c_cmd_x).
 The content of `command` in `c_cmd` calls, however, is not always 1:1 to what is seen in `c_*` function names.
 
-**Example:** `c_cmd("wait", 30, 0, 0, 0);` equals to [`c_wait(30);`](Functions-CutsceneCommands-Control.md#c_wait).
+**Example:** `c_cmd("wait", 30, 0, 0, 0)` equals to [`c_wait(30)`](Functions-CutsceneCommands-Control.md#c_wait).
 
 
 `c_cmd_x`
@@ -38,7 +38,7 @@ This supports 2 more arguments than [`c_cmd`](#c_cmd).
 Other `c_*` functions are generally wrappers of either this or `c_cmd`.
 The content of `command` in `c_cmd_x` calls, however, is not always 1:1 to what is seen in `c_*` function names.
 
-**Example:** `c_cmd_x("wait", 30, 0, 0, 0, 0, 0);` equals to [`c_wait(30);`][c_wait].
+**Example:** `c_cmd_x("wait", 30, 0, 0, 0, 0, 0)` equals to [`c_wait(30)`][c_wait].
 
 [c_wait]: Functions-CutsceneCommands-Control.md#c_wait
 

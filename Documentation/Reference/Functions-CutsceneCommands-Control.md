@@ -19,7 +19,7 @@ Waits for `amount` frames before proceeding to the next command.
 Wait commands like `c_wait` only block the execution of cutscene commands; for example, it doesn't prevent everything
 else in the host instance's Step event from running every frame.
 
-**Example:** `c_wait(30);` generally waits for 1 second (Deltarune and Undertale target 30FPS).
+**Example:** `c_wait(30)` generally waits for 1 second (Deltarune and Undertale target 30FPS).
 
 
 `c_wait_if`
@@ -42,5 +42,5 @@ These operators work just like [their GML equivalents][gml-ops]:
 
 [gml-ops]: https://manual.gamemaker.io/lts/en/GameMaker_Language/GML_Overview/Expressions_And_Operators.htm#operators
 
-**Example:** `c_wait_if(mc_actor, "image_index", "<=", 0);` waits until the `image_index` of `mc_actor`
+**Example:** `c_wait_if(mc_actor, "image_index", "<=", 0)` waits until the `image_index` of `mc_actor`
 is less than or equal to `0` (i.e. the `mc` actor instance is on the first frame of its sprite).
