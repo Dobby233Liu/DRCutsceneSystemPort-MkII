@@ -10,7 +10,10 @@ Sections
 
 - Commands by category
   - [Control](Functions-CutsceneCommands-Control.md)
+  - [Actor](Functions-CutsceneCommands-Actor.md)
+  - [Instance](Functions-CutsceneCommands-Instance.md)
   - [Dialogue](Functions-CutsceneCommands-Dialogue.md)
+  - [Audio](Functions-CutsceneCommands-Audio.md)
 
 - [Miscellaneous Information](#miscellaneous-information)
 
