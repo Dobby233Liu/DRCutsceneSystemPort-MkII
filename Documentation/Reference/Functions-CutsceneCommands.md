@@ -2,11 +2,11 @@ Cutscene Commands
 =======================================================================================================================
 
 
-Sections
+Sub-Pages
 -----------------------------------------------------------------------------------------------------------------------
 
-- [`c_cmd`](#c_cmd)
-- [`c_cmd_x`](#c_cmd_x)
+*Tip: In the GitHub web interface, click the "Outline" button to the right above the header to show the table
+of contents.*
 
 - Commands by category
   - [Control](Functions-CutsceneCommands-Control.md)
@@ -61,6 +61,10 @@ The content of `command` in `c_cmd_x` calls, however, is not always 1:1 to what 
 
 
 `c_debugprint`
+-----------------------------------------------------------------------------------------------------------------------
+
+
+`c_globalvar`
 -----------------------------------------------------------------------------------------------------------------------
 
 

@@ -6,7 +6,10 @@ Control
 *Tip: In the GitHub web interface, click the "Outline" button to the right above the header to show the table
 of contents.*
 
-This is a list of commands for controlling the flow of your cutscene.
+These commands allow controlling the flow of your cutscene.
+
+TODO: Move some of these to main page, and then some of the text/sound-specific stuff to their own pages,
+basically this page is probably going to be teared down
 
 
 `c_instant`
@@ -54,6 +57,7 @@ is less than or equal to `0` (i.e. the `mc` actor instance is on the first frame
 -----------------------------------------------------------------------------------------------------------------------
 
 > `c_wait_talk()`
+>
 > `c_waittalk()`
 
 
@@ -71,6 +75,12 @@ is less than or equal to `0` (i.e. the `mc` actor instance is on the first frame
 
 `c_wait_soundlength`
 -----------------------------------------------------------------------------------------------------------------------
+
+> `c_wait_soundlength(sound: sound asset)`
+
+Waits for however long the sound `sound` would ideally play for.
+
+**Example:** `c_wait_soundlength(snd_noise)` "waits for" `snd_noise` "to finish" (i.e. waits for its duration).
 
 
 `c_waitcustom`

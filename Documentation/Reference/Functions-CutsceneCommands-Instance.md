@@ -34,7 +34,9 @@ of contents.*
 -----------------------------------------------------------------------------------------------------------------------
 
 > `c_var_lerp_instance(TODO)`
+>
 > `c_lerp_var_instance(TODO)`
+>
 > `c_lerpvar_instance(TODO)`
 
 
