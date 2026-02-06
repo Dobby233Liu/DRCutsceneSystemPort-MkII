@@ -10,6 +10,7 @@ Sections
 
 - Commands by category
   - [Control](Functions-CutsceneCommands-Control.md)
+  - [Dialogue](Functions-CutsceneCommands-Dialogue.md)
 
 - [Miscellaneous Information](#miscellaneous-information)
 

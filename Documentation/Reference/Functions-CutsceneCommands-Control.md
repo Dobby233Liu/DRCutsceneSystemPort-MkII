@@ -44,3 +44,29 @@ These operators work just like [their GML equivalents][gml-ops]:
 
 **Example:** `c_wait_if(mc_actor, "image_index", "<=", 0)` waits until the `image_index` of `mc_actor`
 is less than or equal to `0` (i.e. the `mc` actor instance is on the first frame of its sprite).
+
+
+`c_wait_talk`
+-----------------------------------------------------------------------------------------------------------------------
+
+> `c_wait_talk()`
+
+
+`c_waittalk`
+-----------------------------------------------------------------------------------------------------------------------
+
+> `c_waittalk()`
+
+Alias of [`c_wait_talk`](#c_wait_talk).
+
+
+`c_wait_box`
+-----------------------------------------------------------------------------------------------------------------------
+
+> `c_wait_box(msgno: real)`
+
+
+`c_wait_box_end`
+-----------------------------------------------------------------------------------------------------------------------
+
+> `c_wait_box_end(msgno: real)`
