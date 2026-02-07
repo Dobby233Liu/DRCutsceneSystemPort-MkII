@@ -61,8 +61,8 @@ If `volume` is 0, the sound is played at its default volume.
 Plays the sound `sound`, then waits for however long the sound will ideally play for. This is equal to:
 
 ```gml
-c_soundplay(sound)
-c_wait_soundlength(sound)
+c_soundplay(sound);
+c_wait_soundlength(sound);
 ```
 
 **Example:** `c_soundplay_wait(snd_noise)` plays the sound `snd_noise`, and then "waits for it to finish" (i.e. waits for
