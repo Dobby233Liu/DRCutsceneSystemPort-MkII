@@ -20,8 +20,8 @@ These commands allow basic playback of sounds and assorted music manipulation.
 >
 > `c_snd_play(sound: sound asset)`
 
-Plays the sound `sound`. This is the same as [`c_soundplay_x`](#c_soundplay_x), with `volume` and `pitch` specified
-as 0.
+Plays the sound `sound`. Calling this is equal to calling [`c_soundplay_x`](#c_soundplay_x), with `volume` and `pitch`
+specified as 0.
 
 **Deltarune only:** The default `pitch` is 0, and `pitch` is always set as long as `volume` is not 0. This will cause
 the game to attempt setting the sound's speed to 0 by default, which apparently doesn't cause unexpected behavior, but
